@@ -69,12 +69,3 @@ npm run preview
 
 - **GitHub:** https://github.com/Utkkku/kullanici-defteri
 - **Canlı (Netlify):** https://kullanici-defteri.netlify.app
-
-## Teslim Checklist
-
-- [x] React + Tailwind CRUD
-- [x] Components / Pages / Interfaces (+ services / hooks)
-- [x] Ekle, Listele, Güncelle, Sil
-- [x] Ekran görüntüsü
-- [x] GitHub public repo
-- [x] Netlify canlı link

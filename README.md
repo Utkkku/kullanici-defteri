@@ -65,6 +65,11 @@ npm run preview
 - Build: `npm run build`
 - Publish: `dist`
 
+## Linkler
+
+- **GitHub:** https://github.com/Utkkku/kullanici-defteri
+- **Canlı (Netlify):** https://kullanici-defteri.netlify.app
+
 ## Teslim Checklist
 
 - [x] React + Tailwind CRUD
